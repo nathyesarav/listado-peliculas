@@ -7,7 +7,7 @@ function cambiarRol(){
     return (
         <>
         <div className="card p-2">
-        <button  onClick={cambiarRol} className="btn btn-success mb-2">Cambiar rol</button>
+        <button  onClick={cambiarRol} className="btn btn-dark mb-2">Cambiar rol</button>
             
                 <ul className="list-group">
                     <li className="list-group-item">{id}</li>

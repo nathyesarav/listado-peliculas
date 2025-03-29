@@ -1,11 +1,11 @@
-import './App.css';
-import ListaUsuarios from './componentes/lista-usuarios/listaUsuarios';
-import coleccion from './data/cine.peliculas.json';
+import "./App.css";
+import ListaUsuarios from "./componentes/lista-usuarios/listaUsuarios";
+import coleccion from './data/cine.peliculas.json'
 const App = () => {
-
+ 
   return (
     <>
-      <div className='container'>
+      <div className="container">
         <h1>Catálogo de Películas</h1>
         <table className='table'>
           {coleccion.map((pelicula) => (
@@ -17,13 +17,11 @@ const App = () => {
             </tr>
           ))}
         </table>
-
         <h2> Lista de usuarios</h2>
         <ListaUsuarios></ListaUsuarios>
-
       </div>
     </>
   );
-}
+};
 
-export default App
+export default App;

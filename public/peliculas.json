@@ -1,5 +1,6 @@
 [
   {
+    "id": "1",
     "titulo": "El Padrino",
     "director": "Francis Ford Coppola",
     "año": 1972,
@@ -9,6 +10,7 @@
     "duracion": 175
   },
   {
+    "id": "2",
     "titulo": "Interestelar",
     "director": "Christopher Nolan",
     "año": 2014,
@@ -18,6 +20,7 @@
     "duracion": 169
   },
   {
+    "id": "3",
     "titulo": "Pulp Fiction",
     "director": "Quentin Tarantino",
     "año": 1994,
@@ -27,6 +30,7 @@
     "duracion": 154
   },
   {
+    "id": "4",
     "titulo": "Matrix",
     "director": "Lana y Lilly Wachowski",
     "año": 1999,
@@ -36,6 +40,7 @@
     "duracion": 136
   },
   {
+    "id": "5",
     "titulo": "Titanic",
     "director": "James Cameron",
     "año": 1997,
@@ -45,6 +50,7 @@
     "duracion": 195
   },
   {
+    "id": "6",
     "titulo": "El caballero oscuro",
     "director": "Christopher Nolan",
     "año": 2008,
@@ -54,6 +60,7 @@
     "duracion": 152
   },
   {
+    "id": "7",
     "titulo": "Gladiador",
     "director": "Ridley Scott",
     "año": 2000,
@@ -63,6 +70,7 @@
     "duracion": 155
   },
   {
+    "id": "8",
     "titulo": "Forrest Gump",
     "director": "Robert Zemeckis",
     "año": 1994,
@@ -72,6 +80,7 @@
     "duracion": 142
   },
   {
+    "id": "9",
     "titulo": "Inception",
     "director": "Christopher Nolan",
     "año": 2010,
@@ -81,6 +90,7 @@
     "duracion": 148
   },
   {
+    "id": "10",
     "titulo": "Los Vengadores",
     "director": "Joss Whedon",
     "año": 2012,
@@ -90,6 +100,7 @@
     "duracion": 143
   },
   {
+    "id": "11",
     "titulo": "Jurassic Park",
     "director": "Steven Spielberg",
     "año": 1993,
@@ -99,6 +110,7 @@
     "duracion": 127
   },
   {
+    "id": "12",
     "titulo": "La La Land",
     "director": "Damien Chazelle",
     "año": 2016,
@@ -108,6 +120,7 @@
     "duracion": 128
   },
   {
+    "id": "13",
     "titulo": "El señor de los anillos: El retorno del rey",
     "director": "Peter Jackson",
     "año": 2003,
@@ -117,6 +130,7 @@
     "duracion": 201
   },
   {
+    "id": "14",
     "titulo": "El resplandor",
     "director": "Stanley Kubrick",
     "año": 1980,
@@ -126,6 +140,7 @@
     "duracion": 146
   },
   {
+    "id": "15",
     "titulo": "Parasite",
     "director": "Bong Joon-ho",
     "año": 2019,
@@ -135,6 +150,7 @@
     "duracion": 132
   },
   {
+    "id": "16",
     "titulo": "Django sin cadenas",
     "director": "Quentin Tarantino",
     "año": 2012,
@@ -144,6 +160,7 @@
     "duracion": 165
   },
   {
+    "id": "17",
     "titulo": "Star Wars: Una nueva esperanza",
     "director": "George Lucas",
     "año": 1977,
@@ -153,6 +170,7 @@
     "duracion": 121
   },
   {
+    "id": "18",
     "titulo": "Toy Story",
     "director": "John Lasseter",
     "año": 1995,
@@ -162,6 +180,7 @@
     "duracion": 81
   },
   {
+    "id": "19",
     "titulo": "Mad Max: Furia en el camino",
     "director": "George Miller",
     "año": 2015,
@@ -171,6 +190,7 @@
     "duracion": 120
   },
   {
+    "id": "20",
     "titulo": "Blade Runner 2049",
     "director": "Denis Villeneuve",
     "año": 2017,
