@@ -6,18 +6,18 @@ const App = () => {
   return (
     <>
       <div className="container">
-        <h1>Catálogo de Películas</h1>
+        <h2 class="display-3 text-center">Listado de Películas</h2>
         <table className='table'>
           {coleccion.map((pelicula) => (
             <tr key={pelicula._id.$oid}>
-              <td>{pelicula.titulo}</td>
-              <td>{pelicula.director}</td>
-              <td>{pelicula.genero}</td>
-              <td>{pelicula.año}</td>
+              <td><i class="bi bi-film"></i>{pelicula.titulo}</td>
+              <td><i class="bi bi-person-circle"></i> {pelicula.director}</td>
+              <td><i class="bi bi-tv"></i>{pelicula.genero}</td>
+              <td><i class="bi bi-calendar-date"></i>{pelicula.año}</td>
             </tr>
           ))}
         </table>
-        <h2> Lista de usuarios</h2>
+        <h3 class="display-3 text-center">Listado de Usuarios</h3>
         <ListaUsuarios></ListaUsuarios>
       </div>
     </>
